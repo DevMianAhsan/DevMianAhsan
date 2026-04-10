@@ -1,37 +1,15 @@
-# 💫 Hi, I'm **Muhammad Ahsan**  
-**Full-Stack Web Developer** | SaaS Builder | Laravel & React Enthusiast
+# 💫 About Me:
+Building modern, scalable web applications including business websites, SaaS platforms, admin dashboards, and custom CMS solutions using modern web technologies.<br>Open-source web projects, startup ideas, SaaS products, UI/UX-driven applications, and performance-optimized front-end or full-stack solutions.<br>Scaling applications, advanced DevOps workflows, cloud deployment strategies, and improving application security and performance.<br>Advanced JavaScript frameworks, performance optimization techniques, API architecture, cloud services, and emerging web technologies.<br>Web development, front-end & full-stack solutions, UI/UX design, responsive layouts, WordPress customization, React, Laravel, and project architecture.
 
-![Profile Views](https://visitcount.itsvg.in/api?id=DevMianAhsan&icon=0&color=0)
 
-### About Me
-I'm a passionate Full-Stack developer from **Lahore, Pakistan** with expertise in building modern, scalable, and high-performance web applications.
-
-I specialize in:
-- Business websites & custom CMS
-- SaaS platforms and admin dashboards
-- Responsive UI/UX with Tailwind CSS
-- Backend development with **Laravel + Livewire**
-- API development, performance optimization & cloud deployment
-
-### 💻 Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-... (keep your other badges)
-
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=DevMianAhsan&theme=dark&hide_border=false&include_all_commits=true)
-![](https://nirzak-streak-stats.vercel.app/?user=DevMianAhsan&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMianAhsan&theme=dark&hide_border=false&layout=compact)
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DevMianAhsan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DevMianAhsan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMianAhsan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=DevMianAhsan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-💼 **Open to freelance & collaboration** on interesting web/SaaS projects.
-
-📍 Lahore, Pakistan  
-📧 Email: [your@email.com]  
-🔗 [LinkedIn](link) | [Portfolio](link) | [Twitter](link)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
